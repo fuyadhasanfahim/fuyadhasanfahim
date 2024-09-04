@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @fuyadhasanfahim
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning NextJs
+- 💞️ I’m looking to collaborate on open source web application
+- 📫 How to reach me, email: fuyadhasanfahim0@gmail.com
+- 😄 Pronouns: Fuyad
+- ⚡ Fun fact: I know nothing. 
