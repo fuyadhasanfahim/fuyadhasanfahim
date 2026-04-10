@@ -48,7 +48,7 @@ My competitive programming background (C++ · Codeforces · AtCoder) isn't just 
 
 <br/>
 
-> *"Separation of concerns isn't a pattern — it's a discipline."*
+> _"Separation of concerns isn't a pattern — it's a discipline."_
 
 <br/>
 
@@ -126,6 +126,7 @@ My competitive programming background (C++ · Codeforces · AtCoder) isn't just 
 Full-stack HR platform replacing manual document tracking with an automated, real-time digital portal for enterprise operations.
 
 **Engineering highlights:**
+
 - 🔐 Role-based auth via **Better-Auth** with granular DB permissions
 - ⚡ **Socket.io** WebSocket broadcasting for instant staff notifications
 - 📊 Bulk **CSV/Excel ingestion** with full Zod schema validation pre-insert
@@ -142,6 +143,7 @@ Full-stack HR platform replacing manual document tracking with an automated, rea
 Professional interactive CLI utility for safe MongoDB cluster exports, dry-run simulations, and BSON-faithful batch restorations.
 
 **Engineering highlights:**
+
 - 🖥️ Guided **enquirer** CLI prompts for zero-friction navigation
 - 🛡️ **Dry-run mode** — simulate full imports before touching production
 - 📦 **1,000-doc auto-batching** to prevent Node.js heap overflow
@@ -159,6 +161,7 @@ Professional interactive CLI utility for safe MongoDB cluster exports, dry-run s
 Visually polished Next.js 14 agricultural management system for livestock profiling, farm operations tracking, and dynamic financial reporting.
 
 **Engineering highlights:**
+
 - 📊 **Recharts** analytics with health and financial reporting
 - 🔐 **Custom JWT auth** — zero third-party auth dependency
 - ✨ Tailwind gradients + Lottie micro-animations throughout
@@ -174,6 +177,7 @@ Visually polished Next.js 14 agricultural management system for livestock profil
 Battle-tested starter that removes 80% of repetitive SaaS bootstrap work. Ships with auth, billing, protected routes, and a pre-built component library.
 
 **Engineering highlights:**
+
 - 🧩 **Stripe** subscription billing wired end-to-end
 - 🛡️ **Better-Auth** with protected route middleware
 - 🎨 Full **shadcn/ui** component library pre-configured
@@ -208,7 +212,7 @@ Battle-tested starter that removes 80% of repetitive SaaS bootstrap work. Ships 
 
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=fuyadhasanfahim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=0d1117" />
 &nbsp;
-<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyadhasanfahim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyadhasanfahim&layout=compact" />
 
 <br/><br/>
 
@@ -222,17 +226,17 @@ Battle-tested starter that removes 80% of repetitive SaaS bootstrap work. Ships 
 
 ```typescript
 const fuyadHasanFahim = {
-  role        : "Full-Stack Engineer — TypeScript Purist",
-  location    : "Bangladesh 🇧🇩",
+  role: "Full-Stack Engineer — TypeScript Purist",
+  location: "Bangladesh 🇧🇩",
 
   architecture: "Separation of concerns — always.",
-  typeSystem  : "Strict TypeScript + Zod from DB schema to UI component.",
-  performance : "Batch, stream, and profile before optimizing.",
-  tooling     : "Build internal tools when the ecosystem falls short.",
-  foundation  : "Competitive programming keeps algorithms razor-sharp.",
+  typeSystem: "Strict TypeScript + Zod from DB schema to UI component.",
+  performance: "Batch, stream, and profile before optimizing.",
+  tooling: "Build internal tools when the ecosystem falls short.",
+  foundation: "Competitive programming keeps algorithms razor-sharp.",
 
   currentFocus: ["System Design", "AI/ML integrations", "Open Source"],
-  openTo      : ["Freelance", "Remote Full-Time", "Technical Collaboration"],
+  openTo: ["Freelance", "Remote Full-Time", "Technical Collaboration"],
 } as const;
 ```
 
@@ -244,13 +248,13 @@ I treat algorithms the same way I treat software architecture — with clarity, 
 
 <div align="center">
 
-| Platform | Status | Focus Area |
-|---|---|---|
+| Platform       | Status                                                                  | Focus Area                     |
+| -------------- | ----------------------------------------------------------------------- | ------------------------------ |
 | **Codeforces** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Data Structures · Graph Theory |
-| **AtCoder** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Dynamic Programming |
-| **CodeChef** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Long Challenges |
-| **VJudge** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Mixed Problem Sets |
-| **HackerRank** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Algorithms · SQL |
+| **AtCoder**    | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Dynamic Programming            |
+| **CodeChef**   | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Long Challenges                |
+| **VJudge**     | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Mixed Problem Sets             |
+| **HackerRank** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Algorithms · SQL               |
 
 **🎯 500+ problems solved across all platforms**
 
