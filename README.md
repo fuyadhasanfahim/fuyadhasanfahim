@@ -1,169 +1,218 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0f1e,70:0d1117,100:161b22&height=140&section=header&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        Turning complex problems into clean systems.          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+███████╗██╗   ██╗██╗   ██╗ █████╗ ██████╗
+██╔════╝██║   ██║╚██╗ ██╔╝██╔══██╗██╔══██╗
+█████╗  ██║   ██║ ╚████╔╝ ███████║██║  ██║
+██╔══╝  ██║   ██║  ╚██╔╝  ██╔══██║██║  ██║
+██║     ╚██████╔╝   ██║   ██║  ██║██████╔╝
+╚═╝      ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝
 ```
 
-# Hey, I'm [Your Name] 👋
+# Fuyad Hasan Fahim
 
-**Mid-Level Full-Stack Engineer** · TypeScript Purist · CLI Builder · Backend-First Thinker
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=580&lines=Full-Stack+Engineer+%E2%80%94+TypeScript+Purist;Real-time+systems+%7C+CLI+tooling+%7C+Clean+architecture;500%2B+competitive+programming+problems+solved;Turning+complex+problems+into+clean+systems.)](https://git.io/typing-svg)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-competitive_programmer-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-primary_db-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-strict_mode_always-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/fuyadhasanfahim.com-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://fuyadhasanfahim.com)&nbsp;
+[![Email](https://img.shields.io/badge/codewithfyad@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codewithfyad@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/codewithfuyad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithfuyad)&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/fuyadhasanfahim)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=fuyadhasanfahim&label=Profile+Views&color=58A6FF&style=flat-square)
 
 </div>
 
 ---
 
-## ⚙️ What I Build
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=fuyadhasanfahim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&rank_icon=github&cache_seconds=1800" />
 
-I specialize in **full-stack TypeScript systems** — from polished Next.js dashboards to hardened Express backends, custom CLI tooling, and real-time WebSocket infrastructure. I write code that's meant to survive production: typed end-to-end, validated at every layer, and architected with clear separation of concerns.
+### `> whoami`
 
-My competitive programming background (C++ / Codeforces) keeps my problem-solving sharp — I bring that mindset into how I think about performance, batching, and memory-safe data processing on the server.
+Full-stack developer from **Bangladesh** building production-grade TypeScript systems — from real-time dashboards and enterprise portals to custom CLI tooling and hardened REST APIs.
+
+I don't just write code that works. I write code that **scales**, **survives production**, and can be maintained by the next engineer without confusion.
+
+My competitive programming background (C++ · Codeforces · AtCoder) isn't just a hobby — it shapes how I think about performance, edge cases, and memory-efficient data processing at the server level.
+
+- 🔭 Deepening expertise in **System Design** & **AI/ML integrations**
+- ⚡ **500+** problems solved across competitive platforms
+- 🌏 Open to **freelance**, **remote**, and **full-time** opportunities
+- 🛠️ I build internal tools when the ecosystem falls short
+
+<br/>
+
+> *"Separation of concerns isn't a pattern — it's a discipline."*
+
+<br/>
+
+---
+
+## ⚙️ Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square)
+![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=flat-square)
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
+![node-cron](https://img.shields.io/badge/node--cron-238636?style=flat-square)
+
+**Databases & Storage**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![NeonDB](https://img.shields.io/badge/Neon-00E599?style=flat-square)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+
+**Auth, DevOps & Payments**
+
+![Better-Auth](https://img.shields.io/badge/Better--Auth-5C4EE5?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><strong>🏢 Enterprise HR Management Portal</strong> — Full-stack real-time HR system</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🏢 Enterprise HR Management Portal
 
-> A comprehensive HR web application replacing manual document tracking with an automated, instantly-syncing digital portal.
+Full-stack HR platform replacing manual document tracking with an automated, real-time digital portal for enterprise operations.
 
-**Stack:** `Next.js 16` · `Express.js` · `MongoDB` · `Redux Toolkit` · `Socket.io` · `Better-Auth` · `Zod` · `Cloudinary`
+**Engineering highlights:**
+- 🔐 Role-based auth via **Better-Auth** with granular DB permissions
+- ⚡ **Socket.io** WebSocket broadcasting for instant staff notifications
+- 📊 Bulk **CSV/Excel ingestion** with full Zod schema validation pre-insert
+- 📄 On-the-fly **PDF generation** via `react-pdf`
+- 🏗️ Modular controllers → services → routes architecture
 
-**Highlights:**
-- 🔐 Advanced **role-based authentication** using Better-Auth with granular DB permissions
-- ⚡ **Real-time WebSocket broadcasting** for instant company-wide policy & task notifications
-- 📊 Bulk **CSV/Excel data ingestion** with Zod validation before DB insertion
-- 📄 On-the-fly **PDF report generation** via `react-pdf`
-- ☁️ Cloudinary integration for media and document handling
+`Next.js 16` `Express.js` `MongoDB` `Socket.io` `Redux Toolkit` `Zod` `Cloudinary`
 
-**Architecture:** Modular client-server separation with dedicated routers, controllers, and service layers. Strict Zod schema validation from DB model to UI component.
+</td>
+<td width="50%" valign="top">
 
-</details>
+### 🛢️ DB-Backup Engine — MongoDB CLI Tool
 
----
+Professional interactive CLI utility for safe MongoDB cluster exports, dry-run simulations, and BSON-faithful batch restorations.
 
-<details>
-<summary><strong>🛢️ DB-Backup Engine</strong> — Interactive MongoDB CLI backup & restore tool</summary>
+**Engineering highlights:**
+- 🖥️ Guided **enquirer** CLI prompts for zero-friction navigation
+- 🛡️ **Dry-run mode** — simulate full imports before touching production
+- 📦 **1,000-doc auto-batching** to prevent Node.js heap overflow
+- 🔬 Full **EJSON fidelity** — ObjectIDs and ISODates preserved perfectly
 
-<br/>
+`Node.js` `MongoDB Native Driver` `enquirer` `chalk` `ora` `fs-extra`
 
-> A professional Node.js CLI utility for safe MongoDB cluster exports, dry-run simulations, and faithful batch restorations.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Stack:** `Node.js` · `MongoDB Native Driver` · `enquirer` · `chalk` · `ora` · `fs-extra`
+### 🐄 Cattle Farm Dashboard
 
-**Highlights:**
-- 🖥️ Guided **interactive CLI prompts** for friction-free navigation
-- 🛡️ **Dry-run mode** — simulate imports before committing to production
-- ⚙️ **Selective collection export/import** with full BSON/EJSON fidelity (ObjectIDs, ISODates preserved)
-- 📦 **Automated 1,000-doc batching** to prevent Node.js memory heap overflow on massive datasets
+Visually polished Next.js 14 agricultural management system for livestock profiling, farm operations tracking, and dynamic financial reporting.
 
-**Architecture:** Core export/import logic separated from DB connection utilities. Stream-like batching prevents memory issues on large collections.
+**Engineering highlights:**
+- 📊 **Recharts** analytics with health and financial reporting
+- 🔐 **Custom JWT auth** — zero third-party auth dependency
+- ✨ Tailwind gradients + Lottie micro-animations throughout
+- 🏗️ App Router with serverless routes directly on Mongoose
 
-</details>
+`Next.js 14` `MongoDB` `Recharts` `Tailwind CSS` `Radix UI` `JWT` `Zod`
 
----
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><strong>🐄 Cattle Farm Dashboard</strong> — Agricultural livestock operations tracker</summary>
+### ⚡ Next.js SaaS Boilerplate
 
-<br/>
+Battle-tested starter that removes 80% of repetitive SaaS bootstrap work. Ships with auth, billing, protected routes, and a pre-built component library.
 
-> A visually polished Next.js 14 dashboard for livestock profiling, farm activity tracking, and dynamic financial/health reporting.
+**Engineering highlights:**
+- 🧩 **Stripe** subscription billing wired end-to-end
+- 🛡️ **Better-Auth** with protected route middleware
+- 🎨 Full **shadcn/ui** component library pre-configured
+- ⚡ Cuts project bootstrapping from days to hours
 
-**Stack:** `Next.js 14` · `MongoDB` · `Recharts` · `Tailwind CSS` · `Radix UI` · `Lottie` · `Zod` · `JWT` · `bcryptjs`
+`Next.js` `TypeScript` `Better-Auth` `Stripe` `shadcn/ui` `Tailwind CSS`
 
-**Highlights:**
-- 📊 **Dynamic reporting** with Recharts-powered analytics charts
-- 🐄 Full **livestock profiling** and farm activity logging
-- 🔐 **Custom JWT authentication** — no third-party auth dependency
-- ✨ Polished UI with Tailwind gradients and Lottie micro-animations
-
-**Architecture:** App Router with serverless Next.js API routes directly interfacing MongoDB via Mongoose schemas.
-
-</details>
-
----
+</td>
+</tr>
+</table>
 
 <details>
 <summary><strong>⚙️ Hardware Shop Automation Server</strong> — Scheduled backend with cron reporting</summary>
 
 <br/>
 
-> A decoupled Express.js API backend automating inventory management, data cleanup, and Excel report generation on a schedule.
+> A decoupled Express.js API backend automating inventory management, data cleanup, and Excel report generation on a schedule — fully independent of client interaction.
 
 **Stack:** `Express.js` · `MongoDB` · `node-cron` · `xlsx` · `JWT` · `moment`
 
-**Highlights:**
-- ⏱️ **Automated cron jobs** for scheduled data cleanup and report generation
-- 📑 Server-side **Excel spreadsheet generation** from inventory data
-- 🛡️ JWT-secured RESTful endpoints
-
-**Architecture:** Monolithic REST API with Express middleware patterns. Cron jobs operate fully independently of client interaction.
+- ⏱️ **Automated cron jobs** for data cleanup and report generation
+- 📑 Server-side **Excel generation** from live inventory data
+- 🛡️ JWT-secured RESTful endpoints with Express middleware patterns
 
 </details>
 
 ---
 
-## 🧰 Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square)
-
-### Backend
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
-![node-cron](https://img.shields.io/badge/node--cron-scheduled-green?style=flat-square)
-
-### Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-
-### Auth & Security
-![Better-Auth](https://img.shields.io/badge/Better--Auth-111827?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-hashed-orange?style=flat-square)
-
-### Data & Utilities
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=flat-square)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![xlsx](https://img.shields.io/badge/xlsx-parsing-217346?style=flat-square)
-![papaparse](https://img.shields.io/badge/papaparse-CSV-gray?style=flat-square)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=fuyadhasanfahim&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&stroke=0d1117" />
+&nbsp;
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyadhasanfahim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<br/><br/>
+
+<img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=fuyadhasanfahim&theme=github-compact&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&hide_border=true" />
 
 </div>
 
@@ -172,30 +221,83 @@ My competitive programming background (C++ / Codeforces) keeps my problem-solvin
 ## 🧠 Engineering Philosophy
 
 ```typescript
-const myApproach = {
-  architecture : "Separation of concerns — always.",
-  typeSystem   : "TypeScript strict mode + Zod from DB to UI.",
-  performance  : "Batch, stream, and profile before optimizing.",
-  tooling      : "Build internal tools when the ecosystem falls short.",
-  foundation   : "Competitive programming keeps the fundamentals sharp.",
+const fuyadHasanFahim = {
+  role        : "Full-Stack Engineer — TypeScript Purist",
+  location    : "Bangladesh 🇧🇩",
+
+  architecture: "Separation of concerns — always.",
+  typeSystem  : "Strict TypeScript + Zod from DB schema to UI component.",
+  performance : "Batch, stream, and profile before optimizing.",
+  tooling     : "Build internal tools when the ecosystem falls short.",
+  foundation  : "Competitive programming keeps algorithms razor-sharp.",
+
+  currentFocus: ["System Design", "AI/ML integrations", "Open Source"],
+  openTo      : ["Freelance", "Remote Full-Time", "Technical Collaboration"],
 } as const;
 ```
 
 ---
 
-## 📬 Let's Connect
+## 🏆 Competitive Programming
+
+I treat algorithms the same way I treat software architecture — with clarity, intentional design, and no wasted cycles.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.dev)
-[![Codeforces](https://img.shields.io/badge/Codeforces-yourhandle-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourhandle)
+| Platform | Status | Focus Area |
+|---|---|---|
+| **Codeforces** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Data Structures · Graph Theory |
+| **AtCoder** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Dynamic Programming |
+| **CodeChef** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Long Challenges |
+| **VJudge** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Mixed Problem Sets |
+| **HackerRank** | ![Active](https://img.shields.io/badge/Active-238636?style=flat-square) | Algorithms · SQL |
+
+**🎯 500+ problems solved across all platforms**
+
+</div>
+
+---
+
+## 📡 Learning Roadmap
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  SYSTEM DESIGN          [████████░░]  80%                        │
+│  Distributed systems, caching strategies, load balancing         │
+│                                                                  │
+│  AI / ML INTEGRATIONS   [██████░░░░]  60%                        │
+│  LLM APIs, model training foundations, AI-powered tooling        │
+│                                                                  │
+│  ADVANCED DSA           [█████████░]  90%                        │
+│  Segment trees, advanced DP, graph algorithms                    │
+│                                                                  │
+│  OPEN SOURCE            [████░░░░░░]  40%  ← next priority       │
+│  Contributing to TypeScript ecosystem tooling                    │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📬 Let's Build Something
+
+I'm open to freelance projects, full-time roles, and technical collaborations. If you have an interesting problem — I want to hear it.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/fuyadhasanfahim.com-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://fuyadhasanfahim.com)&nbsp;
+[![Email](https://img.shields.io/badge/codewithfyad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithfyad@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/codewithfuyad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithfuyad)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with obsessive attention to type safety and architectural clarity.</sub>
+  <sub>Crafted with precision &nbsp;·&nbsp; Typed end-to-end &nbsp;·&nbsp; Always shipping</sub>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&height=90&section=footer" />
 </div>
