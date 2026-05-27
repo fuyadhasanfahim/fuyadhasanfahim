@@ -208,9 +208,9 @@ Battle-tested starter that removes 80% of repetitive SaaS bootstrap work. Ships 
 
 <div align="center">
 
-<img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=fuyadhasanfahim&theme=github-dark-blue&hide_border=true&background=0b0b0f&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee&sideLabels=8b949e&dates=8b949e&stroke=0b0b0f" />
+<img width="420" src="https://streak-stats.demolab.com/?user=fuyadhasanfahim&theme=github-dark-blue&hide_border=true&background=0b0b0f&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee&sideLabels=8b949e&dates=8b949e&stroke=0b0b0f" />
 &nbsp;
-<img width="330" src="https://gh-stats-gen.vercel.app/api/top-langs/?username=fuyadhasanfahim&layout=compact&theme=github_dark&hide_border=true&bg_color=0b0b0f&title_color=22d3ee&text_color=8b949e&langs_count=8&cache_seconds=1800" />
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyadhasanfahim&layout=compact&theme=github_dark&hide_border=true&bg_color=0b0b0f&title_color=22d3ee&text_color=8b949e&langs_count=8&cache_seconds=1800" />
 
 <br/><br/>
 
